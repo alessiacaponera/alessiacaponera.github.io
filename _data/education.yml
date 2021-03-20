@@ -5,19 +5,19 @@
   qualification: Ph.D. in Methodological Statistics
   #link: https://www.unibocconi.eu/
   quote: >
-    Department of Statistical Sciences, Sapienza University of Rome
+    Department of Statistical Sciences, Sapienza University of Rome, Rome, Italy
   description: | # this will include new lines to allow paragraphs
-    I have been awarded a merit based 3-year fellowship. I worked under the joint supervision of  Prof. [Domenico Marinucci](https://www.mat.uniroma2.it/~marinucc/) and Prof. [Pierpaolo Brutti](https://www.dss.uniroma1.it/it/dipartimento/persone/brutti-pierpaolo). Thesis title: [*Statistical inference for spherical functional autoregressions*](files/PhDThesis.pdf).
+    I have been awarded a merit based 3-year fellowship. I worked under the joint supervision of  Prof. [Domenico Marinucci](https://www.mat.uniroma2.it/~marinucc/) and Prof. [Pierpaolo Brutti](https://www.dss.uniroma1.it/it/dipartimento/persone/brutti-pierpaolo). Thesis title: [*Statistical inference for spherical functional autoregressions*](files/papers/PhDThesis.pdf).
 
 - layout: left
-  name: University of Padova
-  dates: 2013 - 2015
-  qualification: M.Sc. in Statistical Sciences
-  link: https://www.unipd.it
+  name: Paris Dauphine University
+  dates: 2015 - 2016
+  qualification: Master Mathématiques, Informatique, Décision et Organisation
+  #link: https://www.unipd.it
   quote: >
-    Università degli studi di Padova, Padua, Italy
+    Paris Dauphine University, Paris, France
   description: | # this will include new lines to allow paragraphs
-    Final mark: 110/110 with laude. Advisor: [Bruno Scarpa](https://homes.stat.unipd.it/brunoscarpa/). Thesis title: [*Functional telecommunication data: a Bayesian nonparametric approach*](http://tesi.cab.unipd.it/49380/1/Rigon_Tommaso.pdf). I attended with honors the PhD courses: Theory and Methods of Inference, Statistical Models.
+    Advisor: Prof. Christian P. Robert. Thesis title: *Evidence estimation of state space models: sequential Monte Carlo$^2$ and Chib’s method*.
 
 - layout: left
   name: University of Padova
