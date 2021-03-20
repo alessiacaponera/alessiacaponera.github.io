@@ -28,29 +28,29 @@ about_content: | # this will include new lines to allow paragraphs
 
     My complete curriculum vitae is available at [this link](/files/cv_Caponera.pdf). For more information about myself, you can also visit my [ResearchGate](https://www.researchgate.net/profile/Alessia-Caponera) and [Google Scholar](https://scholar.google.com/citations?user=stpPH0cAAAAJ&hl=en) profiles.
 
-    I am interested in Bayesian methods for the analysis of complex data, covering the theoretical, applicative, and computational aspects. I try to balance these three macro-areas in my research.
+    I am mostly interested in space-time spherical random fields and related topics, such as spectral representations, spherical wavelets and needlets, functional data analysis on the sphere. I also appreciate teaching Statistics and any form of knowledge sharing.
     
     [<mark>Download curriculum vitae</mark>](/files/cv_Caponera.pdf)
 
 # Teaching Section
-teaching_title: Teaching @ Unimib
-teaching_content: |
-    The courses are paired with a website which includes the teaching material (slides, code, references, etc.).
+#teaching_title: Teaching @ Unimib
+#teaching_content: |
+#    The courses are paired with a website which includes the teaching material (slides, code, references, etc.).
 
-    **B.Sc. courses (corsi laurea triennale)**
+#    **B.Sc. courses (corsi laurea triennale)**
 
-    - [**Statistics 1** (in Italian)](https://tommasorigon.github.io/StatI/), CdL in Scienze Statistiche ed Economiche, University of Milano-Bicocca. 
-    - [**R for the multivariate statistical analysis** (in Italian)](https://tommasorigon.github.io/introR/), CdL in Scienze Statistiche ed Economiche, University of Milano-Bicocca.
+#    - [**Statistics 1** (in Italian)](https://tommasorigon.github.io/StatI/), CdL in Scienze Statistiche ed Economiche, University of Milano-Bicocca. 
+#    - [**R for the multivariate statistical analysis** (in Italian)](https://tommasorigon.github.io/introR/), CdL in Scienze Statistiche ed Economiche, University of Milano-Bicocca.
     
-    **B.Sc. & M.Sc. thesis (tesi triennale e magistrale)**
+#    **B.Sc. & M.Sc. thesis (tesi triennale e magistrale)**
 
-    - [**Information page** (in Italian)](https://tommasorigon.github.io/files/tesi.html). Please read the information page if you are interested in working with me for your B.Sc. or M.Sc. thesis.
+#    - [**Information page** (in Italian)](https://tommasorigon.github.io/files/tesi.html). Please read the information page if you are interested in working with me for your B.Sc. or M.Sc. thesis.
 
 # Projects Section
 projects_title: Academic Positions
 
 # Experience Section
-experience_title: Industry Experience
+#experience_title: Industry Experience
 
 # Education Section
 education_title: Education
