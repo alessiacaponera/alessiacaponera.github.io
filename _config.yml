@@ -1,0 +1,166 @@
+# Site
+repository: tommasorigon/tommasorigon.github.io
+# favicon: Directory of your favicon (eg. images/favicon.ico)(optional)
+
+# Personal info
+name: Tommaso Rigon
+title: Assistant Professor at University of Milano-Bicocca
+email: tommaso.rigon@unimib.it
+
+# Social links
+github_username:  tommasorigon
+linkedin_username: tommasorigon
+twitter_username: RigonTommaso
+
+# About Section
+about_title: About Me
+about_profile_image: /images/profile.jpg
+about_content: | # this will include new lines to allow paragraphs
+    I am an Assistant Professor in Statistics at the [department of Economics, Management and Statistics](https://www.dems.unimib.it/en) (DEMS) of [University of Milano-Bicocca](https://en.unimib.it). I currently live in Milan, Italy.
+
+    I am also member of the [Bayes Lab](https://www.bayeslab.unibocconi.eu/wps/wcm/connect/Cdr/Bayeslab/Home) at the Bocconi Institute for Data Science and Analytics (BIDSA), of the [“de Castro” Statistics Initiative](https://www.carloalberto.org/research/statistics-initiative/) at Collegio Carlo Alberto, and of the [MIDAS Complex Data Modeling Research Network](https://midas.mat.uc.cl/network/).
+
+    My complete curriculum vitae is available at [this link](/files/cv_Rigon.pdf). For more information about myself, you can also visit my [GitHub](https://github.com/tommasorigon) and [Google scholar](https://scholar.google.it/citations?user=vRRVHqgAAAAJ&hl=en) profiles.
+
+    I am interested in Bayesian methods for the analysis of complex data, covering the theoretical, applicative, and computational aspects. I try to balance these three macro-areas in my research.
+    
+    [<mark>Download curriculum vitae</mark>](/files/cv_Rigon.pdf)
+
+# Teaching Section
+teaching_title: Teaching @ Unimib
+teaching_content: |
+    The courses are paired with a website which includes the teaching material (slides, code, references, etc.).
+
+    **B.Sc. courses (corsi laurea triennale)**
+
+    - [**Statistics 1** (in Italian)](https://tommasorigon.github.io/StatI/), CdL in Scienze Statistiche ed Economiche, University of Milano-Bicocca. 
+    - [**R for the multivariate statistical analysis** (in Italian)](https://tommasorigon.github.io/introR/), CdL in Scienze Statistiche ed Economiche, University of Milano-Bicocca.
+    
+    **B.Sc. & M.Sc. thesis (tesi triennale e magistrale)**
+
+    - [**Information page** (in Italian)](https://tommasorigon.github.io/files/tesi.html). Please read the information page if you are interested in working with me for your B.Sc. or M.Sc. thesis.
+
+# Projects Section
+projects_title: Academic Positions
+
+# Experience Section
+experience_title: Industry Experience
+
+# Education Section
+education_title: Education
+
+# More Section
+more_title: Publications
+more_content: |
+
+    **Articles in refereed journals**
+    
+    1. **Rigon, T.** and Durante, D., (2021), Tractable Bayesian density regression via logit stick-breaking priors, *Journal of Statistical Planning and inference* **211**, 131--142. [[Link]](https://www.sciencedirect.com/science/article/pii/S0378375818300697?dgcid=author) [[GitHub Repository]](https://github.com/tommasorigon/LSBP).
+    
+    1. Legramanti, S., **Rigon, T.** and Durante, D. (2020).  Bayesian testing for exogenous partition structures in stochastic block models. *Sankhya A*. In press. [[Link]](https://link.springer.com/article/10.1007%2Fs13171-020-00231-2) [[GitHub repository]](https://github.com/danieledurante/TESTsbm)
+    
+    1. Lijoi, A., Prünster, I. and **Rigon, T.** (2020). Sampling hierarchies of discrete random structures. *Statistics and Computing* **30**, 1591--1607. [[Link]](https://link.springer.com/article/10.1007/s11222-020-09961-7)
+    
+    1. Lijoi, A., Prünster, I. and **Rigon, T.** (2020). The Pitman--Yor multinomial process for mixture modeling. *Biometrika*. **107**(4), 891--906. [[Link]](https://academic.oup.com/biomet/article-abstract/107/4/891/5854095).
+
+    1. Durante, D. and **Rigon, T.** (2019). Conditionally conjugate mean-field variational Bayes for logistic models, *Statistical Science* **34**(3), 472--485. [[Link]](https://projecteuclid.org/euclid.ss/1570780980) [[GitHub Repository]](https://github.com/tommasorigon/logisticVB).
+
+    1. **Rigon, T.**, Durante, D. and Torelli, N. (2019). Bayesian semiparametric modelling of contraceptive behavior in India via sequential logistic regressions, *Journal of the Royal Statistical Society, Series A* **182**(1), 225--247. [[Link]](https://rss.onlinelibrary.wiley.com/doi/full/10.1111/rssa.12361) [[GitHub Repository]](https://github.com/tommasorigon/India-SequentiaLogit).
+
+    1. Durante, D., Canale, A. and **Rigon, T.** (2019).  A nested expectation-maximization algorithm for latent class models with covariates, *Statistics and Probability Letters* **146**, 97--103. [[Link]](https://www.sciencedirect.com/science/article/pii/S0167715218303390)  [[GitHub Repository]](https://github.com/danieledurante/nEM).
+    
+
+    **Submitted and working papers**
+    
+    1. Favaro, S., Panero, F. and **Rigon, T.** (2021+). Bayesian nonparametric disclosure risk assessment. Submitted.  
+    
+    1. **Rigon, T.** (2021+). An enriched mixture model for functional clustering. Submitted.  [[ArXiv]](https://arxiv.org/abs/1907.02493).
+
+    1. Lijoi, A., Prünster, I. and **Rigon, T.** (2021+). Finite-dimensional discrete random structures and Bayesian clustering. Submitted. [[Link]](https://www.carloalberto.org/wp-content/uploads/2019/12/no.600.pdf).
+    
+    1. **Rigon, T.**, Scarpa, B. and Petrone, S. (2021+). Enriched Pitman-Yor processes. Submitted. [[ArXiv]](https://arxiv.org/abs/2003.12200).
+    
+    1. **Rigon, T.**, Herring, A. H. and Dunson, D. B. (2021+). A generalized Bayes framework for probabilistic clustering. Submitted. [[ArXiv]](https://arxiv.org/abs/2006.05451).
+    
+    1. Legramanti, S., **Rigon, T.**, Durante, D. and Dunson D. B. (2021+).  Extended stochastic block models with application to criminal networks. Submitted. [[ArXiv]](https://arxiv.org/pdf/2007.08569.pdf) [[GitHub repository]](https://github.com/danieledurante/ESBM)
+    
+    1. Zito, A., **Rigon, T.**, Ovaskainen, O., and Dunson, D. B. (2021+).  Bayesian nonparametric modelling of sequential discoveries. Submitted. [[ArXiv]](https://arxiv.org/abs/2011.06629)
+
+
+    **Refereed conference proceedings, publications in monographs, discussions**
+    
+    1. **Rigon, T.**, Aliverti, E., Russo, M., and Scarpa, B. (2021). A discussion on: ``Centered partition processes: Informative priors for clustering'' Paganin, S., Herring, A. H., Olshan, A. F., Dunson, D. B., et al. (2021) in *Bayesian Analysis*
+
+    1. Aliverti, E., Paganin, S., **Rigon, T.** and Russo, M. (2019). A discussion on: ``Latent nested nonparametric priors'' by Camerlenghi, F., Dunson, D.B., Lijoi, A., Prünster, I. and Rodriguez, A. in *Bayesian Analysis* **14**(4), 1303--1356. [[Link]](https://projecteuclid.org/euclid.ba/1561601089).
+
+    1. **Rigon, T.** (2018). Logit stick-breaking priors for partially exchangeable count data. In *Book of Short Papers SIS 2018* (Abbruzzo, A., Piacentino, D., Chiodi, M., and Brentari, E., editors). ISBN: 9788891910233. [[Link]](https://it.pearson.com/content/dam/region-core/italy/pearson-italy/pdf/Docenti/ISTITUZIONI%20-%20HE%20-%20PDF%20-%20SIS%20V2.pdf).
+
+    1. Caponera, A., Denti, F., **Rigon, T.**, Sottosanti, A. and Gelfand, A. (2018). Hierarchical Spatio-Temporal Modeling of Resting State fMRI Data. In *Studies in Neural Data Science* (Canale, A., Durante, D., Paci, L., Scarpa, B., editors). [[Link]](https://www.springer.com/us/book/9783030000387) [[GitHub Repository]](https://github.com/tommasorigon/StartUpResearch).
+
+# More Section
+awards_title: Awards
+awards_content: |
+
+    **Academic awards**
+
+    - Best Ph.D. student in Statistics at Bocconi University in the Academic Year 2016/2017 (09/2017)
+
+    **Data competitions**
+
+    - Best objective prediction at [Stat under the Stars 4](https://www.unipa.it/dipartimenti/seas/sus4/), Palermo, Italy (06/2018)
+    - Winner of the Young-CLADAG data contest, Milan, Italy (09/2017)
+    - Winner of the [Bocconi summer school data competition](https://www.knowledge.unibocconi.it/notizia.php?idArt=1855), Como, Italy (07/2017)
+
+    **Travel award**
+
+    - Travel award (400£) for O'Bayes 2019 conference, Warwick, UK (06/2019)
+    - Travel award (accommodation) for the BNP12 conference, Oxford, UK (06/2019)
+    - ISBA travel award (250$) for ISBA 2018 world meeting, Edinburgh, UK (06/2018)
+    - ISBA travel award (700$) for the O'Bayes 2017 conference, Austin, Texas (12/2017)
+
+
+# More Section
+service_title: Service to profession
+service_content: |
+
+    **Referee service (alphabetical order)**
+
+    Annals of Statistics; Bayesian Analysis; Bernoulli; Biometrics; Biometrika; Computational Statistics & Data Analysis; Electronic Journal of Statistics; European Journal of Operational Research; IEEE Transactions on Neural Networks and Learning Systems; Journal of Computational & Graphical Statistics; Journal of the American Statistical Association; Statistical Methods & Applications; Social Indicators Research; Statistics & Probability Letters
+
+    **Positions in Academic Societies**
+
+    - Elected member of the board (2016-2018) of the [young group (ySIS)](https://youngsis.github.io) of the Italian Statistical Society
+
+    **Organization of Scientific Events**
+
+    - Organizer of the ySIS session *think outside of the black-box: statistical reasoning in applications* of the [SIS2019: Smart Statistics for Smart Applications conference](http://meetings3.sis-statistica.org/index.php/SIS2019/index/schedConfs/current), Milan, Italy (06/2019)
+    - Member of the organising committee of [Stats under the Stars 5](http://www.sus5.unibocconi.eu), a hackathon for young Data Scientists, Milan, Italy (06/2019)
+    - Member of the local organising committee of the [10th international workshop on Bayesian inference in stochastic processes](https://www.unibocconi.eu/wps/wcm/connect/Site/BISP10/Home/) (BISP10), Milan, Italy (11/2017)
+
+
+# Footer
+footer_show_references: true
+
+# Build settings
+# theme: modern-resume-theme (Use this is you are hosting your resume yourself)
+# remote_theme: sproogen/modern-resume-theme (Use this if you are hosting your resume on GitHub)
+
+sass:
+  sass_dir: _sass
+  style: compressed
+
+plugins:
+ - jekyll-seo-tag
+
+exclude : [
+  "Gemfile",
+  "Gemfile.lock",
+  "node_modules",
+  "vendor/bundle/",
+  "vendor/cache/",
+  "vendor/gems/",
+  "vendor/ruby/",
+  "lib/",
+  "scripts/",
+  "docker-compose.yml",
+  ]
