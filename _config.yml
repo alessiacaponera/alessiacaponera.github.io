@@ -26,9 +26,9 @@ about_profile_image: /images/profile.jpg
 about_content: | # this will include new lines to allow paragraphs
     I am Postdoctoral Researcher at École Polytechnique Fédérale de Lausanne, in the research team of Prof. Victor Panaretos.
 
-    My complete curriculum vitae is available at [this link](/files/cv_Caponera.pdf). For more information about myself, you can also visit my [ResearchGate](https://www.researchgate.net/profile/Alessia-Caponera) and [Google Scholar](https://scholar.google.com/citations?user=stpPH0cAAAAJ&hl=en) profiles.
-
     I am mostly interested in space-time spherical random fields and related topics, such as spectral representations, spherical wavelets and needlets, functional data analysis on the sphere. I also appreciate teaching Statistics and any form of knowledge sharing.
+    
+    My complete curriculum vitae is available at [this link](/files/cv_Caponera.pdf). For more information about myself, you can also visit my [ResearchGate](https://www.researchgate.net/profile/Alessia-Caponera) and [Google Scholar](https://scholar.google.com/citations?user=stpPH0cAAAAJ&hl=en) profiles.
     
     [<mark>Download curriculum vitae</mark>](/files/cv_Caponera.pdf)
 
@@ -61,47 +61,23 @@ more_content: |
 
     **Articles in refereed journals**
     
-    1. **Rigon, T.** and Durante, D., (2021), Tractable Bayesian density regression via logit stick-breaking priors, *Journal of Statistical Planning and inference* **211**, 131--142. [[Link]](https://www.sciencedirect.com/science/article/pii/S0378375818300697?dgcid=author) [[GitHub Repository]](https://github.com/tommasorigon/LSBP).
+    1. **Caponera, A.**, Durastanti, C., Vidotto, A. (2021+). LASSO estimation for spherical autoregressive processes. *Stochastic Processes and their Applications*. In press. [[arXiv]](https://arxiv.org/pdf/1911.11470.pdf)
     
-    1. Legramanti, S., **Rigon, T.** and Durante, D. (2020).  Bayesian testing for exogenous partition structures in stochastic block models. *Sankhya A*. In press. [[Link]](https://link.springer.com/article/10.1007%2Fs13171-020-00231-2) [[GitHub repository]](https://github.com/danieledurante/TESTsbm)
-    
-    1. Lijoi, A., Prünster, I. and **Rigon, T.** (2020). Sampling hierarchies of discrete random structures. *Statistics and Computing* **30**, 1591--1607. [[Link]](https://link.springer.com/article/10.1007/s11222-020-09961-7)
-    
-    1. Lijoi, A., Prünster, I. and **Rigon, T.** (2020). The Pitman--Yor multinomial process for mixture modeling. *Biometrika*. **107**(4), 891--906. [[Link]](https://academic.oup.com/biomet/article-abstract/107/4/891/5854095).
+    1. **Caponera A.**, Marinucci D. (2021). Asymptotics for spherical functional autoregressions. *Annals of Statistics*, vol. 49, no. 1, pp. 346-369. [[Link]](https://projecteuclid.org/journals/annals-of-statistics/volume-49/issue-1/Asymptotics-for-spherical-functional-autoregressions/10.1214/20-AOS1959.short)
+      
 
-    1. Durante, D. and **Rigon, T.** (2019). Conditionally conjugate mean-field variational Bayes for logistic models, *Statistical Science* **34**(3), 472--485. [[Link]](https://projecteuclid.org/euclid.ss/1570780980) [[GitHub Repository]](https://github.com/tommasorigon/logisticVB).
-
-    1. **Rigon, T.**, Durante, D. and Torelli, N. (2019). Bayesian semiparametric modelling of contraceptive behavior in India via sequential logistic regressions, *Journal of the Royal Statistical Society, Series A* **182**(1), 225--247. [[Link]](https://rss.onlinelibrary.wiley.com/doi/full/10.1111/rssa.12361) [[GitHub Repository]](https://github.com/tommasorigon/India-SequentiaLogit).
-
-    1. Durante, D., Canale, A. and **Rigon, T.** (2019).  A nested expectation-maximization algorithm for latent class models with covariates, *Statistics and Probability Letters* **146**, 97--103. [[Link]](https://www.sciencedirect.com/science/article/pii/S0167715218303390)  [[GitHub Repository]](https://github.com/danieledurante/nEM).
+    **Manuscripts under review and in preparation**
     
-
-    **Submitted and working papers**
+    1. **Caponera, A.** (2020). SPHARMA approximations for stationary time series on the sphere. *arXiv preprint*. Submitted for publication. [[arXiv]](https://arxiv.org/pdf/2009.13189.pdf)
     
-    1. Favaro, S., Panero, F. and **Rigon, T.** (2021+). Bayesian nonparametric disclosure risk assessment. Submitted.  
-    
-    1. **Rigon, T.** (2021+). An enriched mixture model for functional clustering. Submitted.  [[ArXiv]](https://arxiv.org/abs/1907.02493).
-
-    1. Lijoi, A., Prünster, I. and **Rigon, T.** (2021+). Finite-dimensional discrete random structures and Bayesian clustering. Submitted. [[Link]](https://www.carloalberto.org/wp-content/uploads/2019/12/no.600.pdf).
-    
-    1. **Rigon, T.**, Scarpa, B. and Petrone, S. (2021+). Enriched Pitman-Yor processes. Submitted. [[ArXiv]](https://arxiv.org/abs/2003.12200).
-    
-    1. **Rigon, T.**, Herring, A. H. and Dunson, D. B. (2021+). A generalized Bayes framework for probabilistic clustering. Submitted. [[ArXiv]](https://arxiv.org/abs/2006.05451).
-    
-    1. Legramanti, S., **Rigon, T.**, Durante, D. and Dunson D. B. (2021+).  Extended stochastic block models with application to criminal networks. Submitted. [[ArXiv]](https://arxiv.org/pdf/2007.08569.pdf) [[GitHub repository]](https://github.com/danieledurante/ESBM)
-    
-    1. Zito, A., **Rigon, T.**, Ovaskainen, O., and Dunson, D. B. (2021+).  Bayesian nonparametric modelling of sequential discoveries. Submitted. [[ArXiv]](https://arxiv.org/abs/2011.06629)
+    1. Spoto, F., **Caponera, A.**, Brutti, P. Spherical autoregressive change-point detection with applications. *Preprint*.
 
 
-    **Refereed conference proceedings, publications in monographs, discussions**
+    **Refereed conference proceedings and book chapters**
     
-    1. **Rigon, T.**, Aliverti, E., Russo, M., and Scarpa, B. (2021). A discussion on: ``Centered partition processes: Informative priors for clustering'' Paganin, S., Herring, A. H., Olshan, A. F., Dunson, D. B., et al. (2021) in *Bayesian Analysis*
-
-    1. Aliverti, E., Paganin, S., **Rigon, T.** and Russo, M. (2019). A discussion on: ``Latent nested nonparametric priors'' by Camerlenghi, F., Dunson, D.B., Lijoi, A., Prünster, I. and Rodriguez, A. in *Bayesian Analysis* **14**(4), 1303--1356. [[Link]](https://projecteuclid.org/euclid.ba/1561601089).
-
-    1. **Rigon, T.** (2018). Logit stick-breaking priors for partially exchangeable count data. In *Book of Short Papers SIS 2018* (Abbruzzo, A., Piacentino, D., Chiodi, M., and Brentari, E., editors). ISBN: 9788891910233. [[Link]](https://it.pearson.com/content/dam/region-core/italy/pearson-italy/pdf/Docenti/ISTITUZIONI%20-%20HE%20-%20PDF%20-%20SIS%20V2.pdf).
-
-    1. Caponera, A., Denti, F., **Rigon, T.**, Sottosanti, A. and Gelfand, A. (2018). Hierarchical Spatio-Temporal Modeling of Resting State fMRI Data. In *Studies in Neural Data Science* (Canale, A., Durante, D., Paci, L., Scarpa, B., editors). [[Link]](https://www.springer.com/us/book/9783030000387) [[GitHub Repository]](https://github.com/tommasorigon/StartUpResearch).
+    1. **Caponera, A.**, Denti, F., Rigon, T., Sottosanti, A. and Gelfand, A. (2018). Hierarchical Spatio-Temporal Modeling of Resting State fMRI Data. In: *Studies in Neural Data Science* (Canale, A., Durante, D., Paci, L., Scarpa, B., editors). [[Link]](https://www.springer.com/us/book/9783030000387) [[GitHub Repository]](https://github.com/tommasorigon/StartUpResearch).
+    
+    1. **Caponera, A.**, Werner, M. J. (2018). How robust is the skill score of probabilistic earthquake forecasts?. In: *Book of Short Papers SIS 2018*. ISBN: 9788891910233. [[Link]](https://it.pearson.com/content/dam/region-core/italy/pearson-italy/pdf/Docenti/ISTITUZIONI%20-%20HE%20-%20PDF%20-%20SIS%20V2.pdf)
 
 # More Section
 awards_title: Awards
