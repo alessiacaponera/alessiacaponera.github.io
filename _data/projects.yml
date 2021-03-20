@@ -1,35 +1,21 @@
 - layout: left
-  company: University of Milano-Bicocca
-  link: https://en.unimib.it
-  jobs:
-    - title: Assistant Professor
-      dates: 2020 - Present
-  quote: >
-    Department of Economics, Management and Statistics (DEMS), University of Milano-Bicocca, Milan, Italy
-  description: >
-    I am currently an [Assistant Professor](https://en.unimib.it/tommaso-rigon) (_Ricercatore SECS-S/01, Legge 240/10 tipo A_), at [University of Milano-Bicocca](https://en.unimib.it). 
-
-- layout: left
-  company: Duke University
-  link: https://www.duke.edu
+  company: EPFL
+  #link: https://en.unimib.it
   jobs:
     - title: Postdoctoral Associate
-      dates: 2020 - 2020
+      dates: 2020 - Present
+  quote: >
+    EPFL SB MATH SMAT - Station 8, 1015 Lausanne, Switzerland
+  description: >
+    I am currently a [Postdoctoral Associate](https://people.epfl.ch/alessia.caponera/?lang=en) at École Polytechnique Fédérale de Lausanne, in the Chair of Mathematical Statistics held by [Victor Panaretos](http://smat-files.epfl.ch/victor/).
+
+- layout: left
+  company: University of Rome Tor Vergata
+  #link: https://www.duke.edu
+  jobs:
     - title: Research Associate
       dates: 2019 - 2020
   quote: >
-    Department of Statistical Science, Duke University, Durham, North Carolina, USA
+    Department of Mathematics - Via della Ricerca Scientifica 1, 00133 Rome, Italy
   description: >
-    I have been Research Associate and Postdoctoral Associate at [Duke university](https://www.duke.edu). I worked with prof. [Amy Herring](https://scholars.duke.edu/person/Amy.Herring) and prof. [David Dunson](https://scholars.duke.edu/person/dunson). My research focused on Bayesian methods for robust clustering, dimensionality reduction and sequential species discovery.
-
-- layout: left
-  company: Collegio Carlo Alberto
-  link: https://www.carloalberto.org
-  job_title: Research Affiliate
-  dates: 2017 - 2020
-  quote: >
-    Fondazione "de Castro" and Collegio Carlo Alberto, Turin, Italy
-  description: >
-    I have been a Research affiliate at the [Statistics initiative](https://www.carloalberto.org/research/statistics-initiative/), Fondazione "de Castro" and [Collegio Carlo Alberto](https://www.carloalberto.org).
-
-
+    I have been Research Associate at University of Rome Tor Vergata, in the research team of Prof. [Domenico Marinucci](https://www.mat.uniroma2.it/~marinucc/).
