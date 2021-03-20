@@ -1,13 +1,13 @@
 # Education Template
 - layout: left
-  name: Bocconi University
-  dates: 2015 - 2020
-  qualification: Ph.D. in Statistical Sciences
-  link: https://www.unibocconi.eu/
+  name: Sapienza University of Rome
+  dates: 2016 - 2020
+  qualification: Ph.D. in Methodological Statistics
+  #link: https://www.unibocconi.eu/
   quote: >
-    Bocconi University, Milan, Italy
+    Department of Statistical Sciences, Sapienza University of Rome
   description: | # this will include new lines to allow paragraphs
-    I have been awarded a merit based 4-year fellowship. I worked under the joint supervision of  prof. [Antonio Lijoi](http://mypage.unibocconi.eu/antoniolijoi/) and prof. [Igor Prünster](http://mypage.unibocconi.eu/igorpruenster/). Thesis title: [*Finite-dimensional nonparametric priors: theory and applications*](files/papers/PhDThesis.pdf). Ph.D. awarded with honors.
+    I have been awarded a merit based 3-year fellowship. I worked under the joint supervision of  Prof. Domenico Marinucci and Prof. Pierpaolo Brutti. Thesis title: [*Statistical Inference for spherical functional autoregressions*](files/papers/PhDThesis.pdf).
 
 - layout: left
   name: University of Padova
@@ -15,7 +15,7 @@
   qualification: M.Sc. in Statistical Sciences
   link: https://www.unipd.it
   quote: >
-    Università degli studi di Padova, Padua, Italy
+    Università degli studi di Padova, Padua, Italy
   description: | # this will include new lines to allow paragraphs
     Final mark: 110/110 with laude. Advisor: [Bruno Scarpa](https://homes.stat.unipd.it/brunoscarpa/). Thesis title: [*Functional telecommunication data: a Bayesian nonparametric approach*](http://tesi.cab.unipd.it/49380/1/Rigon_Tommaso.pdf). I attended with honors the PhD courses: Theory and Methods of Inference, Statistical Models.
 
@@ -25,6 +25,6 @@
   qualification: B.Sc. in Statistics, Economics & Finance
   link: https://www.unipd.it
   quote: >
-    Università degli studi di Padova, Padua, Italy
+    Università degli studi di Padova, Padua, Italy
   description: | # this will include new lines to allow paragraphs
     Final mark: 110/110 with laude. Advisor: [Nicola Sartori](https://homes.stat.unipd.it/nicolasartori/en/content/home). Thesis title: [Box-Cox transformation: an analysis based on the likelihood](http://tesi.cab.unipd.it/42884/1/Rigon_Tommaso.pdf).
