@@ -80,25 +80,25 @@ more_content: |
     1. **Caponera, A.**, Werner, M. J. (2018). How robust is the skill score of probabilistic earthquake forecasts?. In: *Book of Short Papers SIS 2018*. ISBN: 9788891910233. [[Link]](https://it.pearson.com/content/dam/region-core/italy/pearson-italy/pdf/Docenti/ISTITUZIONI%20-%20HE%20-%20PDF%20-%20SIS%20V2.pdf)
 
 # More Section
-awards_title: Awards
-awards_content: |
+#awards_title: Awards
+#awards_content: |
 
-    **Academic awards**
+#    **Academic awards**
 
-    - Best Ph.D. student in Statistics at Bocconi University in the Academic Year 2016/2017 (09/2017)
+#    - Best Ph.D. student in Statistics at Bocconi University in the Academic Year 2016/2017 (09/2017)
 
-    **Data competitions**
+#    **Data competitions**
 
-    - Best objective prediction at [Stat under the Stars 4](https://www.unipa.it/dipartimenti/seas/sus4/), Palermo, Italy (06/2018)
-    - Winner of the Young-CLADAG data contest, Milan, Italy (09/2017)
-    - Winner of the [Bocconi summer school data competition](https://www.knowledge.unibocconi.it/notizia.php?idArt=1855), Como, Italy (07/2017)
+#    - Best objective prediction at [Stat under the Stars 4](https://www.unipa.it/dipartimenti/seas/sus4/), Palermo, Italy (06/2018)
+#    - Winner of the Young-CLADAG data contest, Milan, Italy (09/2017)
+#    - Winner of the [Bocconi summer school data competition](https://www.knowledge.unibocconi.it/notizia.php?idArt=1855), Como, Italy (07/2017)
 
-    **Travel award**
+#    **Travel award**
 
-    - Travel award (400£) for O'Bayes 2019 conference, Warwick, UK (06/2019)
-    - Travel award (accommodation) for the BNP12 conference, Oxford, UK (06/2019)
-    - ISBA travel award (250$) for ISBA 2018 world meeting, Edinburgh, UK (06/2018)
-    - ISBA travel award (700$) for the O'Bayes 2017 conference, Austin, Texas (12/2017)
+#    - Travel award (400£) for O'Bayes 2019 conference, Warwick, UK (06/2019)
+#    - Travel award (accommodation) for the BNP12 conference, Oxford, UK (06/2019)
+#    - ISBA travel award (250$) for ISBA 2018 world meeting, Edinburgh, UK (06/2018)
+#    - ISBA travel award (700$) for the O'Bayes 2017 conference, Austin, Texas (12/2017)
 
 
 # More Section
@@ -107,18 +107,16 @@ service_content: |
 
     **Referee service (alphabetical order)**
 
-    Annals of Statistics; Bayesian Analysis; Bernoulli; Biometrics; Biometrika; Computational Statistics & Data Analysis; Electronic Journal of Statistics; European Journal of Operational Research; IEEE Transactions on Neural Networks and Learning Systems; Journal of Computational & Graphical Statistics; Journal of the American Statistical Association; Statistical Methods & Applications; Social Indicators Research; Statistics & Probability Letters
-
+    Bernoulli; Electronic Journal of Statistics 
+    
     **Positions in Academic Societies**
 
-    - Elected member of the board (2016-2018) of the [young group (ySIS)](https://youngsis.github.io) of the Italian Statistical Society
+    - Elected member of the board (2018-2020) of the [young group (ySIS)](https://youngsis.github.io) of the Italian Statistical Society
 
     **Organization of Scientific Events**
 
-    - Organizer of the ySIS session *think outside of the black-box: statistical reasoning in applications* of the [SIS2019: Smart Statistics for Smart Applications conference](http://meetings3.sis-statistica.org/index.php/SIS2019/index/schedConfs/current), Milan, Italy (06/2019)
-    - Member of the organising committee of [Stats under the Stars 5](http://www.sus5.unibocconi.eu), a hackathon for young Data Scientists, Milan, Italy (06/2019)
-    - Member of the local organising committee of the [10th international workshop on Bayesian inference in stochastic processes](https://www.unibocconi.eu/wps/wcm/connect/Site/BISP10/Home/) (BISP10), Milan, Italy (11/2017)
-
+    - Organizer of the y-SIS session *y-SIS: From methodology to applications* at [CMStatistics 2019](http://www.cmstatistics.org/CMStatistics2019/)
+    - Member of the scientific committee of the [50th Scientific Meeting of the Italian Statistical Society (SIS2020)](http://meetings3.sis-statistica.org/index.php/sis2020/)
 
 # Footer
 footer_show_references: true
