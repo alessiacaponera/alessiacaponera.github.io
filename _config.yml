@@ -1,16 +1,16 @@
 # Site
-repository: tommasorigon/tommasorigon.github.io
+repository: alessiacaponera/alessiacaponera.github.io
 # favicon: Directory of your favicon (eg. images/favicon.ico)(optional)
 
 # Personal info
-name: Tommaso Rigon
-title: Assistant Professor at University of Milano-Bicocca
-email: tommaso.rigon@unimib.it
+name: Alessia Caponera
+title: Postdoctoral Researcher at École Polytechnique Fédérale de Lausanne
+email: alessia.caponera@epfl.ch
 
 # Social links
-github_username:  tommasorigon
-linkedin_username: tommasorigon
-twitter_username: RigonTommaso
+github_username:  alessiacaponera
+#linkedin_username: tommasorigon
+#twitter_username: RigonTommaso
 
 # About Section
 about_title: About Me
