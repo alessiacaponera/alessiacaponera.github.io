@@ -18,13 +18,23 @@
     Place du Maréchal de Lattre de Tassigny, 75016 Paris, France
   description: | # this will include new lines to allow paragraphs
     Advisor: Prof. Christian P. Robert. Thesis title: *Evidence estimation of state space models: sequential Monte Carlo$^2$ and Chib’s method*.
+    
+- layout: left
+  name: Sapienza University of Rome
+  dates: 2011 - 2014
+  qualification: M.Sc. in Statistics and Decisions
+  #link: https://www.unipd.it
+  quote: >
+    Department of Statistical Sciences - Piazzale Aldo Moro 5, 00185 Rome, Italy
+  description: | # this will include new lines to allow paragraphs
+    Double degree program. Final mark: 110/110 cum laude. Advisor: Prof. Luca Tardella. Thesis title: *Distribuzione di Dirichlet e applicazioni*.
 
 - layout: left
-  name: University of Padova
-  dates: 2010 - 2013
-  qualification: B.Sc. in Statistics, Economics & Finance
-  link: https://www.unipd.it
+  name: Sapienza University of Rome
+  dates: 2011 - 2014
+  qualification: B.Sc. in Statistics, Economics and Society
+  #link: https://www.unipd.it
   quote: >
-    Università degli studi di Padova, Padua, Italy
+    Department of Statistical Sciences - Piazzale Aldo Moro 5, 00185 Rome, Italy
   description: | # this will include new lines to allow paragraphs
-    Final mark: 110/110 with laude. Advisor: [Nicola Sartori](https://homes.stat.unipd.it/nicolasartori/en/content/home). Thesis title: [Box-Cox transformation: an analysis based on the likelihood](http://tesi.cab.unipd.it/42884/1/Rigon_Tommaso.pdf).
+    Final mark: 110/110 cum laude. Advisor: Prof. Luca Tardella. Thesis title: *Distribuzione di Dirichlet e applicazioni*.
