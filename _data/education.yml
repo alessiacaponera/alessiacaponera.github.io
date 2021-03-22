@@ -17,7 +17,7 @@
   quote: >
     Place du Maréchal de Lattre de Tassigny, 75016 Paris, France
   description: | # this will include new lines to allow paragraphs
-    Advisor: Prof. Christian P. Robert. Thesis title: *Evidence estimation of state space models: sequential Monte Carlo<img src="https://render.githubusercontent.com/render/math?math=^2"> and Chib’s method*.
+    Advisor: Prof. Christian P. Robert. Thesis title: *Evidence estimation of state space models: sequential Monte Carlo^2 and Chib’s method*.
     
 - layout: left
   name: Sapienza University of Rome
