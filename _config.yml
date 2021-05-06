@@ -21,7 +21,7 @@ github_username:  alessiacaponera
 
 
 # About Section
-about_title: About Me
+about_title: About me
 about_profile_image: /images/profile.jpg
 about_content: | # this will include new lines to allow paragraphs
     I am Postdoctoral Researcher at École Polytechnique Fédérale de Lausanne, in the research team of Prof. Victor Panaretos.
@@ -47,7 +47,7 @@ about_content: | # this will include new lines to allow paragraphs
 #    - [**Information page** (in Italian)](https://tommasorigon.github.io/files/tesi.html). Please read the information page if you are interested in working with me for your B.Sc. or M.Sc. thesis.
 
 # Projects Section
-projects_title: Academic Positions
+projects_title: Academic positions
 
 # Experience Section
 #experience_title: Industry Experience
@@ -61,7 +61,9 @@ more_content: |
 
     **Articles in refereed journals**
     
-    1. **Caponera, A.**, Durastanti, C., Vidotto, A. (2021+). LASSO estimation for spherical autoregressive processes. *Stochastic Processes and their Applications*. In press. [[arXiv]](https://arxiv.org/pdf/1911.11470.pdf)
+    1. **Caponera, A.** (2021+). SPHARMA approximations for stationary time series on the sphere. *Statistical Inference for Stochastic Processes*. In press. [[arXiv]](https://arxiv.org/pdf/2009.13189.pdf)
+    
+    1. **Caponera, A.**, Durastanti, C., Vidotto, A. (2021). LASSO estimation for spherical autoregressive processes. *Stochastic Processes and their Applications*, vol. 137, pp. 167-199. [[Link]](https://www.sciencedirect.com/science/article/pii/S0304414921000375)
     
     1. **Caponera, A.**, Marinucci, D. (2021). Asymptotics for spherical functional autoregressions. *Annals of Statistics*, vol. 49, no. 1, pp. 346-369. [[Link]](https://projecteuclid.org/journals/annals-of-statistics/volume-49/issue-1/Asymptotics-for-spherical-functional-autoregressions/10.1214/20-AOS1959.short)
       
@@ -70,8 +72,6 @@ more_content: |
     
     1. Spoto, F., **Caponera, A.**, Brutti, P. (2021). Spherical autoregressive change-point detection with applications. *Preprint*.
     
-    1. **Caponera, A.** (2020). SPHARMA approximations for stationary time series on the sphere. *arXiv preprint*. Submitted for publication. [[arXiv]](https://arxiv.org/pdf/2009.13189.pdf)
-
 
     **Refereed conference proceedings and book chapters**
     
@@ -109,11 +109,11 @@ service_content: |
 
     Bernoulli; Electronic Journal of Statistics 
     
-    **Positions in Academic Societies**
+    **Positions in academic societies**
 
     - Elected member of the board (2018-2020) of the [young group (ySIS)](https://youngsis.github.io) of the Italian Statistical Society
 
-    **Organization of Scientific Events**
+    **Organization of scientific events**
 
     - Organizer of the y-SIS session *y-SIS: From methodology to applications* at [CMStatistics 2019](http://www.cmstatistics.org/CMStatistics2019/)
     - Member of the scientific committee of the [50th Scientific Meeting of the Italian Statistical Society (SIS2020)](http://meetings3.sis-statistica.org/index.php/sis2020/)
