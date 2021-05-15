@@ -17,7 +17,7 @@
   quote: >
     Place du Maréchal de Lattre de Tassigny, 75016 Paris, France
   description: | # this will include new lines to allow paragraphs
-    Final mark: très bien. Advisor: Prof. Christian P. Robert. Thesis title: *Evidence estimation of state space models: sequential Monte Carlo^2 and Chib’s method*.
+    Final mark: très bien. Advisor: Prof. Christian P. Robert. Thesis title: *Evidence estimation of state space models: Sequential Monte Carlo^2 and Chib’s method*.
     
 - layout: left
   name: Sapienza University of Rome
@@ -27,7 +27,7 @@
   quote: >
     Department of Statistical Sciences - Piazzale Aldo Moro 5, 00185 Rome, Italy
   description: | # this will include new lines to allow paragraphs
-    Final mark: 110/110 cum laude. Advisor: Prof. Pierpaolo Brutti. Thesis title: *Adaptive Smoothing Spline with Application to Seismic Data*.
+    Final mark: 110/110 cum laude. Advisor: Prof. Pierpaolo Brutti. Thesis title: *Adaptive smoothing splines with application to seismic data*.
 
 - layout: left
   name: Sapienza University of Rome
