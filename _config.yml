@@ -88,9 +88,10 @@ more_content: |
 #awards_title: Awards
 #awards_content: |
 
-#    **Academic awards**
+    **Academic awards**
 
-#    - Best Ph.D. student in Statistics at Bocconi University in the Academic Year 2016/2017 (09/2017)
+    - IMS New Researcher Travel Award to attend the 2022 IMS Annual Meeting (800USD)
+    - ISBA Travel Award to attend the 2018 ISBA World Meeting (250USD) 
 
 #    **Data competitions**
 
@@ -110,16 +111,19 @@ more_content: |
 service_title: Service to profession
 service_content: |
 
-    **Referee service (alphabetical order)**
+    **Referee service**
 
-    Bernoulli; Electronic Journal of Statistics 
+    Electronic Journal of Statistics, Bernoulli, Computational Statistics and Data Analysis, Bayesian Analysis, Environmetrics 
     
     **Positions in academic societies**
 
     - Elected member of the board (2018-2020) of the [young group (ySIS)](https://youngsis.github.io) of the Italian Statistical Society
+    - Member of the Italian Statistical Society (SIS), Institute of Mathematical Statistics (IMS) 
 
     **Organization of scientific events**
-
+    
+    - Organizer of the session \textit{Probabilistic and statistical properties of sphere-cross-time random fields} at [Third Italian Meeting on Probability and Mathematical Statistics](https://site.unibo.it/probstat/en)
+    - Organizer of the session \textit{On the second-order dynamics of intricate functional data} at [EcoSta 2022](http://www.cmstatistics.org/EcoSta2022/)
     - Organizer of the y-SIS session *y-SIS: From methodology to applications* at [CMStatistics 2019](http://www.cmstatistics.org/CMStatistics2019/)
     - Member of the scientific committee of the [50th Scientific Meeting of the Italian Statistical Society (SIS2020)](http://meetings3.sis-statistica.org/index.php/sis2020/)
 
