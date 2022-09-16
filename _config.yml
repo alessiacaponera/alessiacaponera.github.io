@@ -61,7 +61,9 @@ more_content: |
 
     **Articles in refereed journals**
     
-    **Caponera, A.**, Panaretos, V.M. (2022+). On the rate of convergence for the autocorrelation operator in functional autoregression. *Statistics & Probability Letters*, in press. [[arXiv:2202.09287]](https://arxiv.org/pdf/2202.09287.pdf)
+    **Caponera, A.**, Fageot, J., Simeoni, M., Panaretos, V.M. (2022+). Functional estimation of anisotropic covariance and autocovariance operators on the sphere. *Electronic Journal of Statistics*, in press. [[arXiv:2112.12694]](https://arxiv.org/pdf/2112.12694.pdf) [[GitHub Repository]](https://github.com/matthieumeo/sphericov)
+    
+    **Caponera, A.**, Panaretos, V.M. (2022). On the rate of convergence for the autocorrelation operator in functional autoregression. *Statistics & Probability Letters*, vol. 189, p. 109575. [[arXiv:2202.09287]](https://arxiv.org/pdf/2202.09287.pdf)
     
     **Caponera, A.**, Durastanti, C. (2022). Parametric estimation for functional autoregressive processes on the sphere. *Theory of Probability and Mathematical Statistics*, vol. 106, pp. 63--83. [[DOI:10.1090/tpms/1165]](https://doi.org/10.1090/tpms/1165)
     
@@ -73,9 +75,13 @@ more_content: |
 
     **Manuscripts under review and in preparation**
     
-    **Caponera, A.**, Fageot, J., Simeoni, M., Panaretos, V.M. (2022+). Functional estimation of anisotropic covariance and autocovariance operators on the sphere. Manuscript submitted for publication. [[arXiv:2112.12694]](https://arxiv.org/pdf/2112.12694.pdf) [[GitHub Repository]](https://github.com/matthieumeo/sphericov)
+    **Caponera, A.** (2022+). Asymptotics for spherically indexed functional data. Manuscript in preparation.
+    
+    **Caponera, A.**, Marinucci, D., Vidotto, A. (2022+). Harmonic Domain CUSUM Tests for Time-Dependent Spherical Random Fields. Manuscript in preparation.
 
     **Refereed conference proceedings and book chapters**
+    
+    Spoto, F., **Caponera, A.**, Brutti, P. (2022). Universal change point testing for dependent data. In: *Book of Short Papers SIS 2022*, in press.
     
     Spoto, F., **Caponera, A.**, Brutti, P. (2021). Spherical autoregressive change-point detection with applications. In: *Book of Short Papers SIS 2021*. ISBN: 9788891927361. [[Link]](https://it.pearson.com/content/dam/region-core/italy/pearson-italy/pdf/Docenti/Università/pearson-sis-book-2021-parte-2.pdf)
     
