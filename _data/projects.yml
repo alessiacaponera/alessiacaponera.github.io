@@ -1,13 +1,24 @@
 - layout: left
+  company: University of Milano-Bicocca
+  #link: https://en.unimib.it
+  jobs:
+    - title: Assistant Professor
+      dates: 2023 - Present
+  quote: >
+    Department of Economics, Management and Statistics (DEMS) - Via Bicocca degli Arcimboldi 8, 20126 Milan, Italy
+  description: >
+    I am currently [Assistant Professor](https://people.epfl.ch/alessia.caponera/?lang=en) (Ricercatore SECS-S/01, Legge 240/10 tipo A) at University of Milano-Bicocca.
+
+- layout: left
   company: EPFL
   #link: https://en.unimib.it
   jobs:
     - title: Postdoctoral Associate
-      dates: 2020 - Present
+      dates: 2020 - 2023
   quote: >
     EPFL SB MATH SMAT - Station 8, 1015 Lausanne, Switzerland
   description: >
-    I am currently a [Postdoctoral Associate](https://people.epfl.ch/alessia.caponera/?lang=en) at École Polytechnique Fédérale de Lausanne, in the Chair of Mathematical Statistics held by Prof. [Victor Panaretos](http://smat-files.epfl.ch/victor/).
+    I have been [Postdoctoral Associate](https://people.epfl.ch/alessia.caponera/?lang=en) at École Polytechnique Fédérale de Lausanne, in the Chair of Mathematical Statistics held by Prof. [Victor Panaretos](http://smat-files.epfl.ch/victor/).
 
 - layout: left
   company: University of Rome Tor Vergata
