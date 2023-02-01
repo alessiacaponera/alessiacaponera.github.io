@@ -4,8 +4,8 @@ repository: alessiacaponera/alessiacaponera.github.io
 
 # Personal info
 name: Alessia Caponera
-title: Postdoctoral Researcher at École Polytechnique Fédérale de Lausanne
-email: alessia.caponera@epfl.ch
+title: Assistant Professor at University of Milano-Bicocca
+email: alessia.caponera@unimib.ch
 
 # Social links
 #twitter_username: sproogen
@@ -24,7 +24,7 @@ github_username:  alessiacaponera
 about_title: About me
 about_profile_image: /images/profile.jpg
 about_content: | # this will include new lines to allow paragraphs
-    I am Postdoctoral Researcher at École Polytechnique Fédérale de Lausanne, in the research team of Prof. Victor Panaretos.
+    I am currently an Assistant Professor (Ricercatore SECS-S/01, Legge 240/10 tipo A) at the Department of Economics, Management and Statistics (DEMS), University of Milano-Bicocca.
 
     My research activity revolves around functional time series topics, with a special attention to spherical random fields. I also appreciate teaching Statistics and any form of knowledge sharing.
     
@@ -61,9 +61,9 @@ more_content: |
 
     **Manuscripts under review and in preparation**
     
-    **Caponera, A.** (2022+). Asymptotics for isotropic Hilbert-valued spherical random fields. Manuscript submitted for publication.
+    **Caponera, A.** (2022+). Asymptotics for isotropic Hilbert-valued spherical random fields. Manuscript submitted for publication. [[arXiv]](https://arxiv.org/pdf/2212.02329.pdf)
     
-    **Caponera, A.**, Marinucci, D., Vidotto, A. (2022+). Harmonic domain CUSUM tests for time-dependent spherical random fields. Manuscript in preparation.
+    **Caponera, A.**, Marinucci, D., Vidotto, A. (2022+). Multiscale CUSUM Tests for time-dependent spherical random fields. Manuscript in preparation.
 
     **Refereed conference proceedings and book chapters**
     
