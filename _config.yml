@@ -46,6 +46,8 @@ more_title: Publications
 more_content: |
 
     **Articles in refereed journals**
+
+    **Caponera, A.** (2023+). Asymptotics for isotropic Hilbert-valued spherical random fields. *Bernoulli*, in press. [[arXiv]](https://arxiv.org/pdf/2212.02329.pdf)
     
     **Caponera, A.**, Fageot, J., Simeoni, M., Panaretos, V.M. (2022). Functional estimation of anisotropic covariance and autocovariance operators on the sphere. *Electronic Journal of Statistics*, vol. 16, no. 2, pp. 5080--5148. [[DOI:10.1214/22-EJS2064]](https://doi.org/10.1214/22-EJS2064) [[GitHub Repository]](https://github.com/matthieumeo/sphericov)
     
@@ -60,8 +62,6 @@ more_content: |
     **Caponera, A.**, Marinucci, D. (2021). Asymptotics for spherical functional autoregressions. *Annals of Statistics*, vol. 49, no. 1, pp. 346--369. [[DOI:10.1214/20-AOS1959]](https://doi.org/10.1214/20-AOS1959)
 
     **Manuscripts under review and in preparation**
-    
-    **Caponera, A.** (2022+). Asymptotics for isotropic Hilbert-valued spherical random fields. Manuscript submitted for publication. [[arXiv]](https://arxiv.org/pdf/2212.02329.pdf)
     
     **Caponera, A.**, Marinucci, D., Vidotto, A. (2023+). Multiscale CUSUM tests for time-dependent spherical random fields. Manuscript submitted for publication. [[arXiv]](https://arxiv.org/pdf/2305.01392.pdf)
 
@@ -95,7 +95,8 @@ service_content: |
     Electronic Journal of Statistics, Bernoulli, Computational Statistics and Data Analysis, Bayesian Analysis, Environmetrics 
     
     **Positions in academic societies**
-    
+
+    - Editor of Bernoulli Society Bulletin e-Briefs (from July 2023)
     - Member of the editorial board of [YoungStatS](https://youngstats.github.io) (since November 2022)
     - Elected member of the board of [Young SIS](https://youngsis.github.io) (2019-2021)
     - Member of the Italian Statistical Society (SIS), Institute of Mathematical Statistics (IMS), Bernoully Society
