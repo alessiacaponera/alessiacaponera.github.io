@@ -1,13 +1,24 @@
 - layout: left
+  company: LUISS Guido Carli
+  #link: https://en.unimib.it
+  jobs:
+    - title: Tenure Track Assistant Professor
+      dates: 2024 - Present
+  quote: >
+    Department of Economics and Finance (DEF) - Viale Romania 32, 00197 Rome, Italy
+  description: >
+    I am currently a [Tenure Track Assistant Professor](https://www.luiss.edu/faculty-profile/356598) (RTT, SECS-S/01) at LUISS Guido Carli.
+
+- layout: left
   company: University of Milano-Bicocca
   #link: https://en.unimib.it
   jobs:
     - title: Assistant Professor
-      dates: 2023 - Present
+      dates: 2023 - 2024
   quote: >
     Department of Economics, Management and Statistics (DEMS) - Via Bicocca degli Arcimboldi 8, 20126 Milan, Italy
   description: >
-    I am currently [Assistant Professor](https://en.unimib.it/alessia-caponera) (Ricercatore SECS-S/01, Legge 240/10 tipo A) at University of Milano-Bicocca.
+    I have been Assistant Professor (RTD-A, SECS-S/01) at University of Milano-Bicocca.
 
 - layout: left
   company: EPFL
