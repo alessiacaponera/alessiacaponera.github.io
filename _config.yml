@@ -4,8 +4,8 @@ repository: alessiacaponera/alessiacaponera.github.io
 
 # Personal info
 name: Alessia Caponera
-title: Assistant Professor at University of Milano-Bicocca
-email: alessia.caponera@unimib.it
+title: Assistant Professor at LUISS Guido Carli
+email: acaponera@luiss.it
 
 # Social links
 #twitter_username: sproogen
@@ -24,9 +24,9 @@ github_username:  alessiacaponera
 about_title: About me
 about_profile_image: /images/profile.jpg
 about_content: | # this will include new lines to allow paragraphs
-    I am currently an Assistant Professor (Ricercatore SECS-S/01, Legge 240/10 tipo A) at the Department of Economics, Management and Statistics (DEMS), University of Milano-Bicocca.
+    I am currently an Assistant Professor (RTT, SECS-S/01) at the Department of Economics and Finance (DEF), LUISS Guido Carli.
 
-    My research activity focuses around functional time series topics, with a special attention to spherical random fields. I also appreciate teaching Statistics and any form of knowledge sharing.
+    My research activity focuses on the multiple intersections of functional data analysis, time series analysis, and spherical random fields.. I also appreciate teaching Statistics and any form of knowledge sharing.
     
     My complete curriculum vitae is available at [this link](/files/cv_Caponera.pdf). For more information about myself, you can also visit my [ResearchGate](https://www.researchgate.net/profile/Alessia-Caponera) and [Google Scholar](https://scholar.google.com/citations?user=stpPH0cAAAAJ&hl=en) profiles.
     
@@ -93,7 +93,7 @@ service_content: |
 
     **Referee service**
 
-    Electronic Journal of Statistics, Bernoulli, Computational Statistics and Data Analysis, Bayesian Analysis, Environmetrics 
+    In alphabetical order: Annals of Statistics, Bayesian Analysis, Bernoulli, Computational Statistics and Data Analysis, Electronic Journal of Statistics, Environmetrics
     
     **Positions in academic societies**
 
@@ -103,9 +103,11 @@ service_content: |
     - Member of the Italian Statistical Society (SIS), Institute of Mathematical Statistics (IMS), Bernoully Society
 
     **Organization of scientific events**
-    
+
+    - Organizer of the session *Statistical inference in infinite-dimensional spaces* at [4th Italian Meeting on Probability and Mathematical Statistics](https://probabilityrome2024.it)
+    - Organizer of the session *Functional data analysis in action* at [SDS 2024](https://meetings3.sis-statistica.org/index.php/sds2024/SDS_2024)
     - Member of the scientific committee of [EcoSta 2023](http://www.cmstatistics.org/EcoSta2023/) and organizer of the session *To stationarity and beyond: statistical inference for nonstationary data structures*
-    - Organizer of the session *Probabilistic and statistical properties of sphere-cross-time random fields* at [Third Italian Meeting on Probability and Mathematical Statistics](https://site.unibo.it/probstat/en)
+    - Organizer of the session *Probabilistic and statistical properties of sphere-cross-time random fields* at [3rd Italian Meeting on Probability and Mathematical Statistics](https://site.unibo.it/probstat/en)
     - Organizer of the session *On the second-order dynamics of intricate functional data* at [EcoSta 2022](http://www.cmstatistics.org/EcoSta2022/)
     - Organizer of the y-SIS session *y-SIS: From methodology to applications* at [CMStatistics 2019](http://www.cmstatistics.org/CMStatistics2019/)
     - Member of the scientific committee of the [50th Scientific Meeting of the Italian Statistical Society (SIS2020)](http://meetings3.sis-statistica.org/index.php/sis2020/)
