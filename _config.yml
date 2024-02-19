@@ -4,7 +4,7 @@ repository: alessiacaponera/alessiacaponera.github.io
 
 # Personal info
 name: Alessia Caponera
-title: Assistant Professor at LUISS Guido Carli
+title: Assistant Professor of Statistics at LUISS Guido Carli
 email: acaponera@luiss.it
 
 # Social links
@@ -24,7 +24,7 @@ github_username:  alessiacaponera
 about_title: About me
 about_profile_image: /images/profile.jpg
 about_content: | # this will include new lines to allow paragraphs
-    I am currently an Assistant Professor (RTT, SECS-S/01) at the Department of Economics and Finance (DEF), LUISS Guido Carli.
+    I am currently Assistant Professor of Statistics at the Department of Economics and Finance (DEF), LUISS Guido Carli.
 
     My research activity focuses on the multiple intersections of functional data analysis, time series analysis, and spherical random fields.. I also appreciate teaching Statistics and any form of knowledge sharing.
     
