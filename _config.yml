@@ -24,13 +24,14 @@ github_username:  alessiacaponera
 about_title: About me
 about_profile_image: /images/profile.jpg
 about_content: | # this will include new lines to allow paragraphs
-    I am currently Assistant Professor of Statistics at the Department of Economics and Finance (DEF), LUISS Guido Carli.
+    I am currently Assistant Professor of Statistics at the Department of AI, Data and Decision Sciences, LUISS Guido Carli.
 
     My research activity focuses on the multiple intersections of functional data analysis, time series analysis, and spherical random fields. I also appreciate teaching Statistics and any form of knowledge sharing.
     
-    My complete curriculum vitae is available at [this link](/files/cv_Caponera.pdf). For more information about myself, you can also visit my [ResearchGate](https://www.researchgate.net/profile/Alessia-Caponera) and [Google Scholar](https://scholar.google.com/citations?user=stpPH0cAAAAJ&hl=en) profiles.
+    #My complete curriculum vitae is available at [this link](/files/cv_Caponera.pdf). 
+    For more information about myself, you can also visit my [ResearchGate](https://www.researchgate.net/profile/Alessia-Caponera) and [Google Scholar](https://scholar.google.com/citations?user=stpPH0cAAAAJ&hl=en) profiles.
     
-    [<mark>Download curriculum vitae</mark>](/files/cv_Caponera.pdf)
+    #[<mark>Download curriculum vitae</mark>](/files/cv_Caponera.pdf)
 
 # Projects Section
 projects_title: Academic positions
@@ -47,6 +48,8 @@ more_content: |
 
     **Articles in refereed journals**
 
+    **Caponera, A.**, Rossi, M., Ruiz-Medina, M.D. (2025). Sojourn functionals of time-dependent χ<sup>2</sup>-random fields on two-point homogeneous spaces. *Journal of Applied Probability*, vol. 62, no. 4, pp. 1493--1512. [[DOI:10.1017/jpr.2025.18]](https://doi.org/10.1017/jpr.2025.18)
+
     **Caponera, A.** (2024). Asymptotics for isotropic Hilbert-valued spherical random fields. *Bernoulli*, vol. 30, no. 3, pp. 1723--1745. [[DOI:10.3150/23-BEJ1650]](https://doi.org/10.3150/23-BEJ1650)
     
     **Caponera, A.**, Fageot, J., Simeoni, M., Panaretos, V.M. (2022). Functional estimation of anisotropic covariance and autocovariance operators on the sphere. *Electronic Journal of Statistics*, vol. 16, no. 2, pp. 5080--5148. [[DOI:10.1214/22-EJS2064]](https://doi.org/10.1214/22-EJS2064) [[GitHub Repository]](https://github.com/matthieumeo/sphericov)
@@ -62,16 +65,22 @@ more_content: |
     **Caponera, A.**, Marinucci, D. (2021). Asymptotics for spherical functional autoregressions. *Annals of Statistics*, vol. 49, no. 1, pp. 346--369. [[DOI:10.1214/20-AOS1959]](https://doi.org/10.1214/20-AOS1959)
 
     **Manuscripts under review and in preparation**
-    
-    **Caponera, A.**, Marinucci, D., Vidotto, A. (2024+). Multiscale CUSUM tests for time-dependent spherical random fields. Manuscript submitted for publication. [[arXiv]](https://arxiv.org/pdf/2305.01392.pdf)
-    
-    **Caponera, A.**, Rossi, M., Ruiz-Medina, M.D. (2024+). Sojourn functionals of time-dependent χ<sup>2</sup>-random fields on two-point homogeneous spaces. Manuscript submitted for publication. [[arXiv]](https://arxiv.org/pdf/2403.17538.pdf)
 
+    **Caponera, A.**, Ferreira, V., Porcu, E. (2025+). Functional Gaussian fields on hyperspheres with their equivalent Gaussian measures. Manuscript in preparation.
+
+    Spoto, F., **Caponera, A.**, Brutti, P. (2025+). Change point detection for functional autoregressive processes on the sphere. Manuscript in preparation.
+
+    Yun, H., **Caponera, A.**, and Panaretos, V.M. (2025+). Low-dose tomography of random fields and the problem of continuous heterogeneity. Manuscript submitted for publication. [[arXiv]](https://arxiv.org/pdf/arXiv:2507.10220.pdf)
+    
+    **Caponera, A.**, Marinucci, D., Vidotto, A. (2025+). Multi-scale CUSUM tests for time dependent spherical random fields. Manuscript submitted for publication. [[arXiv]](https://arxiv.org/pdf/2305.01392v2.pdf)
+    
     **Refereed conference proceedings and book chapters**
 
-    Stöcker, A., **Caponera, A.** (2024+). Functional autoregressive processes on a spherical domain for global aircraft-based atmospheric measurements. To appear in: *Book of Short Papers SDS 2024*.
+    **Caponera, A.**, Marinucci, D., Vidotto A. (2025) Fractional cointegration of geometric functionals. To appear in: *INdAM-Springer Volume “Analysis and Geometry of Random Fields”*. [[arXiv]](https://arxiv.org/pdf/arXiv:2507.10184.pdf)
 
-    **Caponera, A.** (2024+). On the estimation of anisotropic covariance functions on compact two-point homogeneous spaces. To appear in: *Book of Short Papers EYSM 2023*.
+    Stöcker, A., **Caponera, A.** (2024). Functional autoregressive processes on a spherical domain for global aircraft-based atmospheric measurements. In: *Book of Short Papers SDS 2024*. ISBN: 978-88-5509-645-4. [[Link]](https://unipapress.com/book/proceedings-of-the-statistics-and-data-science-2024-conference/)
+
+    **Caponera, A.** (2023). On the estimation of anisotropic covariance functions on compact two-point homogeneous spaces. In: *Book of Short Papers EYSM 2023*. ISBN: 978-961-94283-6-8. [[Link]](https://drive.google.com/file/d/1iuRuiB-7-b3X1ysq8GTgZNOUgADKEpzG/view)
     
     Spoto, F., **Caponera, A.**, Brutti, P. (2022). Universal change point testing for dependent data. In: *Book of Short Papers SIS 2022*. ISBN 9788891932310. [[Link]](https://it.pearson.com/content/dam/region-core/italy/pearson-italy/pdf/Docenti/Università/Sis-2022-4c-low.pdf)
     
