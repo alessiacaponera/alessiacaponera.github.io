@@ -28,10 +28,9 @@ about_content: | # this will include new lines to allow paragraphs
 
     My research activity focuses on the multiple intersections of functional data analysis, time series analysis, and spherical random fields. I also appreciate teaching Statistics and any form of knowledge sharing.
     
-    #My complete curriculum vitae is available at [this link](/files/cv_Caponera.pdf). 
-    For more information about myself, you can also visit my [ResearchGate](https://www.researchgate.net/profile/Alessia-Caponera) and [Google Scholar](https://scholar.google.com/citations?user=stpPH0cAAAAJ&hl=en) profiles.
+    My complete curriculum vitae is available at [this link](/files/cv_Caponera.pdf). For more information about myself, you can also visit my [ResearchGate](https://www.researchgate.net/profile/Alessia-Caponera) and [Google Scholar](https://scholar.google.com/citations?user=stpPH0cAAAAJ&hl=en) profiles.
     
-    #[<mark>Download curriculum vitae</mark>](/files/cv_Caponera.pdf)
+    [<mark>Download curriculum vitae</mark>](/files/cv_Caponera.pdf)
 
 # Projects Section
 projects_title: Academic positions
@@ -106,19 +105,24 @@ awards_content: |
 service_title: Service to profession
 service_content: |
 
+    **Editorial activity**
+
+    Associate Editor of Journal of Computational and Graphical Statistics (since July 2024)
+
     **Referee service**
 
-    In alphabetical order: Annals of Statistics, Bayesian Analysis, Bernoulli, Computational Statistics and Data Analysis, Electronic Journal of Statistics, Environmetrics
+    In alphabetical order: Annals of Statistics, Bayesian Analysis, Bernoulli, Computational Statistics and Data Analysis, Electronic Journal of Probability, Electronic Journal of Statistics, Environmetrics, Journal of Statistical Computation and Simulation, Journal of Statistical Planning and Inference, Journal of Time Series Analysis, TEST
     
     **Positions in academic societies**
 
     - Editor of [Bernoulli Society Bulletin e-Briefs](https://www.bernoullisociety.org/publications?id=171) (since July 2023)
-    - Member of the editorial board of [YoungStatS](https://youngstats.github.io) (since November 2022)
-    - Elected member of the board of [Young SIS](https://youngsis.github.io) (2019-2021)
+    - Member of the editorial board of [YoungStatS](https://youngstats.github.io) (November 2022 -- April 2024)
+    - Elected member of the board of [Young SIS](https://youngsis.github.io) (Kanuary 2019 -- December 2020)
     - Member of the Italian Statistical Society (SIS), Institute of Mathematical Statistics (IMS), Bernoully Society
 
     **Organization of scientific events**
 
+    - Organizer and member of the scientific committee of the [Early-Career Workshop on Nonparametric Statistics](https://sites.google.com/view/wsnpstats/) at LUISS Guido Carli
     - Organizer of the session *Statistical inference in infinite-dimensional spaces* at [4th Italian Meeting on Probability and Mathematical Statistics](https://probabilityrome2024.it)
     - Organizer of the session *Functional data analysis in action* at [SDS 2024](https://meetings3.sis-statistica.org/index.php/sds2024/SDS_2024)
     - Member of the scientific committee of [EcoSta 2023](http://www.cmstatistics.org/EcoSta2023/) and organizer of the session *To stationarity and beyond: statistical inference for nonstationary data structures*
