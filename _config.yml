@@ -4,7 +4,7 @@ repository: alessiacaponera/alessiacaponera.github.io
 
 # Personal info
 name: Alessia Caponera
-title: Assistant Professor of Statistics at LUISS Guido Carli
+title: Assistant Professor of Statistics at Luiss University
 email: acaponera@luiss.it
 
 # Social links
@@ -24,7 +24,7 @@ github_username:  alessiacaponera
 about_title: About me
 about_profile_image: /images/profile.jpg
 about_content: | # this will include new lines to allow paragraphs
-    I am currently Assistant Professor of Statistics at the Department of AI, Data and Decision Sciences, LUISS Guido Carli.
+    I am currently Tenure Track Assistant Professor of Statistics at the Department of AI, Data and Decision Sciences, Luiss University.
 
     My research activity focuses on the multiple intersections of functional data analysis, time series analysis, and spherical random fields. I also appreciate teaching Statistics and any form of knowledge sharing.
     
@@ -122,7 +122,7 @@ service_content: |
 
     **Organization of scientific events**
 
-    - Organizer and member of the scientific committee of the [Early-Career Workshop on Nonparametric Statistics](https://sites.google.com/view/wsnpstats/) at LUISS Guido Carli
+    - Organizer and member of the scientific committee of the [Early-Career Workshop on Nonparametric Statistics](https://sites.google.com/view/wsnpstats/) at Luiss University
     - Organizer of the session *Statistical inference in infinite-dimensional spaces* at [4th Italian Meeting on Probability and Mathematical Statistics](https://probabilityrome2024.it)
     - Organizer of the session *Functional data analysis in action* at [SDS 2024](https://meetings3.sis-statistica.org/index.php/sds2024/SDS_2024)
     - Member of the scientific committee of [EcoSta 2023](http://www.cmstatistics.org/EcoSta2023/) and organizer of the session *To stationarity and beyond: statistical inference for nonstationary data structures*
